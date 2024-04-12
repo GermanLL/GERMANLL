@@ -9,10 +9,10 @@ I am always looking for opportunities to improve my skills and expand my career,
 - Scrum
 - React
 - Flask
-- 
+  
 ### 👩‍💻 I am working on
 - Application projects and websites. Although I think I'll wait to learn React before creating the website.
-- 
+  
 ### 💡Additional Data
 - In 3 months I will be certified with the Italian language.
 - I will build more projects for this 2024.

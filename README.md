@@ -1,36 +1,18 @@
-### ¡Bienvenido a mi GitHub! 👋
+### ¡Welcome to my GitHub! 👋
 <br>
 <br>
-Soy German, desarrollador y programador Python. Estoy construyendo una base sólida en tecnologías tanto frontend como backend. Puedes encontrarme en LinkedIn <a href = "www.linkedin.com/in/desarrolladorgl"> donde pueden contactarse conmigo.
+ Hello! I'm a Python developer passionate about the web. I have been working as a self-taught developer since 2022. I have experience working with APIs, databases and web, as well as using Git and AWS.
+I am always looking for opportunities to improve my skills and expand my career, I am a developer who is willing to work hard to solve problems. 
 
-### ⚡ Relevant achievements
-- Awarded 1st place on Code First Girl's Web Dev course
-- Awarded in Top 3 as Most Innovative project in #HackfromHome 2020 
-- Awarded full scholarship by Manchester Codes for demonstrating passion for tech
-
-### ✔️ I'm currently learning
-- JavaScript
-- ReactJS
-
-### 👩‍💻 I'm working on
-- Building projects and my portfolio website. 
-Although, I think I'll wait to learn React before I build the website.
-
-### 💡 Goals for 2020
-- Complete #100DaysOfCode challenge
-- Build 30+ projects 
-- Become skilled in JavaScript
-- Complete coding bootcamp by October 2020
-
-### 🌴 Fun facts
-- I blog. About food. Recipes and stuff. 
-- I will speak German fluently in 5 months or so.
-
-### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/juel-braganza/">juel-braganza</a>
-- Twitter: <a href = "https://twitter.com/j_brgnz">j_brgnz</a>
-- Website: coming soon
-- Food Blog: <a href = "https://callitameal.com">callitameal.com</a>
-<br>
-<br>
-From Juel07 (https://github.com/Juel07)
+### ✔️ I am currently learning
+- FastAPI
+- Scrum
+- React
+- Flask
+- 
+### 👩‍💻 I am working on
+- Application projects and websites. Although I think I'll wait to learn React before creating the website.
+- 
+### 💡Additional Data
+- In 3 months I will be certified with the Italian language.
+- I will build more projects for this 2024.

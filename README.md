@@ -3,9 +3,9 @@ This is my GitHub! 👋
  Hi! I'm a Python dev passionate about the web. I've been working as a self-taught developer since 2022. I've experience working with APIs, databases and web, as well as using Git and AWS.
 I'm always looking for opportunities to improve my skills and expand my career, I'm a dev who is willing to work hard to solve problems. 
 
-I'm currently learning
+I'm working with these tools
 
-// FastAPI \ Scrum \ React \ Flask
+// Django \ FastAPI \ ExpressJS \ Angular
  
 I'm working on
 

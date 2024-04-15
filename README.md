@@ -1,6 +1,6 @@
 Este es mi GitHub! 👋
 
-Hola! Soy German, programador y desarrollador de Python. Tuve la oportuniada de trabajar temporalmente como desarrollador back-end en el año 2023, pude tener experiencia trabajando con API, Bases de datos..
+Hola! Soy German, programador y desarrollador de Python, tengo experiencia trabajando con API, BD y web, también con Git y AWS
 Siempre estoy buscando oportunidades para mejorar mis habilidades y expandir mi carrera, soy un desarrollador dispuesto a trabajar en cualquier circunstancia que se presente algun problema. 
 
 Estoy aprendiendo ademas

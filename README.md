@@ -1,17 +1,13 @@
-This is my GitHub! 👋
+Este es mi GitHub! 👋
 
- Hi! I'm a Python dev passionate about the web. I've been working as a self-taught developer since 2022. I've experience working with APIs, databases and web, as well as using Git and AWS.
-I'm always looking for opportunities to improve my skills and expand my career, I'm a dev who is willing to work hard to solve problems. 
+Hola! Soy German, programador y desarrollador de Python. Tuve la oportuniada de trabajar temporalmente como desarrollador back-end en el año 2023, pude tener experiencia trabajando con API, Bases de datos..
+Siempre estoy buscando oportunidades para mejorar mis habilidades y expandir mi carrera, soy un desarrollador dispuesto a trabajar en cualquier circunstancia que se presente algun problema. 
 
-I'm working with these tools
+Estoy aprendiendo ademas
 
-// Django \ FastAPI \ ExpressJS \ Angular
+//  FastAPI \ API GraphQL \ Next.js \ ExpressJS \ Angular
  
-I'm working on
+Estoy trabajando
 
-/ Application projects and websites. Although I think I'll wait to learn React before creating the website.
+/  En contruir mas proyectos de aplicaciones y sitios web para este 2024.
   
-Additional Data
-
-/ In 3 months I'll be certified with the Italian language.
-/ i'll build more projects for this 2024.

@@ -1,6 +1,6 @@
 Este es mi GitHub! 👋
 
-Hola! Soy German, programador y desarrollador de Python, tengo experiencia trabajando con API, BD y web, también con Git y AWS.
+Hola! Soy German, programador y desarrollador de Python, tengo experiencia trabajando con API, BD y web, también con Git y Heroku.
 Siempre estoy buscando oportunidades para mejorar mis habilidades y expandir mi carrera, soy un desarrollador dispuesto a trabajar en cualquier circunstancia que se presente algun problema. 
 
 Estoy aprendiendo ademas
